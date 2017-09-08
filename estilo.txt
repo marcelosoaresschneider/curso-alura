@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-frgtgt
-=======
 
 <!DOCTYPE html>
 
@@ -19,4 +16,4 @@ frgtgt
 </body>
 
 </html>
->>>>>>> 8acdaf44a27aea4c4ee47453d14a572bf29e01f8
+
