@@ -1,1 +1,22 @@
+<<<<<<< HEAD
 frgtgt
+=======
+
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+<head>
+
+<meta charset="utf-8">
+
+<title>HTML5 – Estrutura </title>
+
+</head>
+
+<body>
+
+</body>
+
+</html>
+>>>>>>> 8acdaf44a27aea4c4ee47453d14a572bf29e01f8
